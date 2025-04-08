@@ -48,20 +48,10 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesh9&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesh9&layout=compact" height="180"/>
-</div>
-
----
-
 ## 📬 Contact
 
 - GitHub: [leesh9](https://github.com/leesh9)  
-- 이메일: (입력 시 여기에)
+- 이메일: lokciginer@gmail.com
 
 ---
 
