@@ -12,9 +12,8 @@
 ## 🧑‍💻 기본 정보
 
 - **출생**: 1999년생  
-- **학력**: 컴퓨터공학 전공  
-- **GitHub**: [https://github.com/leesh9](https://github.com/leesh9)  
-- **포트폴리오 영상**: [Google Drive 바로가기](https://drive.google.com/drive/folders/10YdCzEgJQF6BDeId5s7Nwq9wmyPz1CVa?usp=drive_link)
+- **학력**: 컴퓨터공학 전공
+- **이메일**: lokciginer@gmail.com 
 ---
 
 ## ⚙️ 기술 경험
